@@ -1,4 +1,13 @@
-div {
+.top3 {
     text-align: center;
+}
 
+img {
+    margin: 1%;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.row {
+    text-align: center;
 }
